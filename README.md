@@ -1,6 +1,6 @@
 ## Online Group Discussion Platform 
 
-<a href="https://chatcircle.vercel.app/"><strong>View Live Demo »</strong></a>
+<a href="https://charcircle.vercel.app/"><strong>View Live Demo »</strong></a>
 
 
 
