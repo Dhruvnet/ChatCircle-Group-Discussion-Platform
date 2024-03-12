@@ -15,7 +15,7 @@ const RoomPage = () => {
                 sharedLinks: [
                     {
                         name: 'Copy Link',
-                        url: `https://tensionflow-online.vercel.app/room/${roomId}`,
+                        url: `https://chatcircle.vercel.app/room/${roomId}`,
                     },
                 ],
                 scenario: {
